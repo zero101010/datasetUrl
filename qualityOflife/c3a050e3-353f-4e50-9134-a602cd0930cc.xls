@@ -1,4 +1,4 @@
-"LOCATION","Country","INDICATOR","Indicator","MEASURE","Measure","INEQUALITY","Inequality","Unit Code","Unit","PowerCode Code","PowerCode","Reference Period Code","Reference Period","Value","Flag Codes","Flags"
+"LOCATION","Country","INDICATOR","Indicator","MEASURE","Measure","INEQUALITY","Inequality","Unit Code","Unit","PowerCode Code",
 "AUS","Australia","JE_LMIS","Labour market insecurity","L","Value","TOT","Total","PC","Percentage","0","Units",5,
 "AUT","Austria","JE_LMIS","Labour market insecurity","L","Value","TOT","Total","PC","Percentage","0","Units",3.5,
 "BEL","Belgium","JE_LMIS","Labour market insecurity","L","Value","TOT","Total","PC","Percentage","0","Units",3.7,
